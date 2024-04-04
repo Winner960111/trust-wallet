@@ -1,0 +1,30 @@
+<b>Miej swoje Bitcoins zawsze przy sobie, w kieszeni!</b> Płacisz poprzez szybkie zeskanowanie kodu QR. Jako sprzedawca, otrzymujesz płatności niezawodnie i natychmiast. Bitcoin Wallet jest referencyjną implementacją "Uproszczonej Weryfikacji Płatności" opisanej w dokumencie Bitcoin Whitepaper.
+
+
+<b>FUNKCJE</b>
+
+• Bez rejestracji, przeglądarki i połączenia z chmurą. Ten portfel jest zdecentralizowany i peer-to-peer.
+• Wyświetlaj ilość bitcoinów w BTC, mBTC lub µBTC.
+• Przelicznik z/do walut narodowych.
+• Wysyłaj i otrzymuj bitcoiny przy pomocy NFC, QRcode lub Bitcoin URL.
+• Kiedy jesteś offline możesz nadal płacić  przy pomocy Bluetooth.
+• Powiadomienia o otrzymaniu monet.
+• Zamiatanie portfeli papierowych (np. Używanych do przechowywania w chłodni).
+• Widget z saldem Bitcoinów.
+• Bezpieczeństwo: Obsługuje Taproot, Segwit i nowy format bech32m.
+• Prywatność: Wspiera Tor przy użyciu oddzielnej aplikacji Orbot.
+
+
+<b>PRZYCZYNIĆ SIĘ</b>
+
+Bitcoin Wallet to oprogramowanie typu <b>open source</b> i <b>free software</b>. Licencja: GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+Nasz kod źródłowy jest dostępny na GitHub:
+https://github.com/bitcoin-wallet/bitcoin-wallet
+
+Wszystkie tłumaczenia są zarządzane przez Transifex:
+https://explore.transifex.com/bitcoin-wallet/bitcoin-wallet/
+
+
+<i>Używaj na własne ryzyko! Stosować tylko do kieszonkowych ilości.</i>

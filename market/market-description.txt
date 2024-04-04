@@ -1,0 +1,30 @@
+<b>Have your Bitcoins always with you, in your pocket!</b> You pay by quickly scanning a QR code. As a merchant, you receive payments reliably and instantly. Bitcoin Wallet is a reference implementation of the "Simplified Payment Verification" as described in the Bitcoin whitepaper.
+
+
+<b>FEATURES</b>
+
+• No registration, web service or cloud needed! This wallet is de-centralized and peer to peer.
+• Display of Bitcoin amount in BTC, mBTC and µBTC.
+• Conversion to and from national currencies.
+• Sending and receiving of Bitcoin via NFC, QR codes or Bitcoin URLs.
+• When you're offline, you can still pay via Bluetooth.
+• System notification for received coins.
+• Sweeping of paper wallets (e.g. those used for cold storage).
+• App widget for Bitcoin balance.
+• Safety: Supports Taproot, Segwit and the new bech32m format.
+• Privacy: Supports Tor via the separate Orbot app.
+
+
+<b>CONTRIBUTE</b>
+
+Bitcoin Wallet is <b>open source</b> and <b>free software</b>. License: GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+Our source code is available at GitHub:
+https://github.com/bitcoin-wallet/bitcoin-wallet
+
+All translations are managed via Transifex:
+https://explore.transifex.com/bitcoin-wallet/bitcoin-wallet/
+
+
+<i>Use at your own risk! Use only for pocket-sized amounts.</i>

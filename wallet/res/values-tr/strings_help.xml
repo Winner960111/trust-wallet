@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="help_wallet">
+<![CDATA[
+		<p>
+			Ekranın sol üst köşesinde, bakiyenizi Bitcoin ve seçilen ulusal para birimi cinsinden görüntüler.
+			Ulusal para birimleri listesine gitmek için hafifçe vurun ve varsayılan olarak seçmek için para birimlerinden birine hafifçe dokunun.
+		</p>
+		<p>
+			Sağ üstteki QR kodu, geçerli bitcoin adresinizi içerir ve bir ödeme yapan tarafından taramak için kullanılabilir.
+			Daha büyük bir sürümünü elde etmek için QR koduna dokunun.
+		</p>
+		<p>
+			Ekranın alt kısmında işlemler listeniz yer almaktadır.
+			Ödeme alıp ödeme gönderdiğiniz zaman o kısım dolacaktır.
+			Alınan ödemeler yeşil, gönderilen ödemeler kırmızı renkte gösterilecek.
+		</p>
+		<p>
+			Eylem çubuğundaki düğmelere dokunarak bitcoin gönderebilir veya isteyebilirsiniz.
+		</p>
+	]]>
+	</string>
+  <string name="help_request_coins">
+<![CDATA[
+		<p>
+			Bu menüyü kullanarak, başkalarından para talep edebilirsiniz.
+			Ödeyen kişi zaten bir Bitcoin cüzdanı kurmuş olmalıdır.
+		</p>
+		<p>
+			İlk olarak, talep etmek için bir miktar Bitcoin girebilirsiniz.
+		</p>
+		<p>
+			Ardından, üretilen QR kodunu ödeyen kişiye taratırsınız.
+			Veya işlem çubuğundaki paylaş düğmesi ile isteğinizi uzaktaki bir kişiye gönderebilirsiniz.
+			Her iki telefonda da NFC etkinse, bunları birbirine dokundurabilirsiniz.
+		</p>
+		<p>
+			Her durumda diğer kişiye bitcoin göndermesi için tüm seçenekleri doldurulmuş bir menü gösterilecektir.
+			Ödeyecek kişi kabul ederse, ödeme kolayca gerçekleştirebilir.
+		</p>
+	]]>
+    </string>
+  <string name="help_send_coins">
+<![CDATA[
+		<p>
+			Bitcoin gönderme sürecini başlattınız.
+		</p>
+		<p>
+			İlk olarak, ödeme yapacağınız Bitcoin adresini girersiniz.
+			Adres, adres defterinizdeki bilinen girişlerden otomatik olarak tamamlanacaktır.
+			Alacaklı tarafından sunulan bir QR kodunu kamera düğmesine basarak da tarayabilirsiniz.
+		</p>
+		<p>
+			Ardından, ödenecek tutarı girersiniz.
+		</p>
+		<p>
+			Son olarak, önceden ayarlanmışsa harcama PIN kodu girilmelidir.
+		</p>
+		<p>
+			Çevrimdışıyken bir ödeme girebilirsiniz.
+			Bitcoin Cüzdanın bir sonraki başlatılmasında gönderilecektir.
+			Bir ödemenin olabildiğince hızlı işlenmesini istiyorsanız, iyi bir şekilde bağlandığınızdan (örneğin bir WLAN\'da) emin olun.
+		</p>
+		<p>
+			Not:
+			Ödemeler geri alınamaz!
+			Daima alıcı adresi kontrol edin.
+		</p>
+	]]>
+    </string>
+  <string name="help_safety">
+<![CDATA[
+		<p>
+			<b>Bitcoinlerinizin güvenliği hakkında önemli noktalar:</b>
+		</p>
+		<p>
+			Bitcoin cüzdanınızdaki Bitcoinler cihazınızda saklanır.
+			<b>Cihazınızı kaybederseniz Bitcoinlerinizi de kaybedersiniz.</b>
+			Tıpkı fiziki cüzdanınızdaki para gibi.
+		</p>
+		<p>
+			<b>Bitcoin Wallet</b> uygulamasını kaldırmadan önce (ya da uygulama verilerini/cihazınızı sıfırlamadan önce) <b>tüm Bitcoinlerinizi başka bir cüzdana aktarınız</b>.
+			Kalan tüm Bitcoinler kaybolacaktır.
+		</p>
+		<p>
+			<b>Muameleler geri alınamaz</b>.
+			Bitcoinlerinizi yanlış bir adrese yollarsanız, bunları geri almak için alıcıyı tanımanız ve onun geri yollamayı kabul etmeniz dışında hiçbir yol yoktur.
+		</p>
+		<p>
+			<b>Android cihazınızı güvenli kullanın!</b>
+			Sadece tamamen güvendiğiniz uygulamaları indiriniz.
+			Kötücül uygulamalar cüzdanınızı çalmaya çalışabilir.
+		</p>
+		<p>
+			Riski sınırlayın!
+			<b>Bitcoin Wallet uygulamasını sadece küçük tutarlar için kullanınız</b>.
+		</p>
+	]]>
+	</string>
+  <string name="help_technical_notes">
+<![CDATA[
+        <p>
+            <b>Teknik notlar:</b>
+        </p>
+        <p>
+            Bir SPV/hafif cüzdan olarak Bitcoin Cüzdan, iş zincirini takip eder (bazen \"en uzun zincir\", \"kazanan zincir\" veya \"Bitcoin blok zinciri\" olarak da adlandırılır.).
+            Yalnızca gelen ödemeleri alacak ve bu zincir üzerinden ödeme yapabileceksiniz.
+            Azınlık zincirlerindeki Bitcoinler, yani daha az çalışma kanıtı olan zincirler hakkında hiçbir garanti verilemez.
+        </p>
+        <p>
+            Geçmişte, azınlık zincirleri her zaman çok hızlı bir şekilde alakasız hale geldi.
+            Yine de bir azınlık zincirini takip etmek isterseniz, istediğiniz zinciri uygulayan bir bitcoind uygulamasına özel olarak bağlanmak için \"güvenilir eş\" özelliğini kullanmanız önerilir.
+            Cüzdanınız ile güvenilen eş arasındaki ağa güvenilmeyecekse, bu bağlantının kimliğini doğrulamak için bir VPN kullanın.
+        </p>
+    ]]>
+    </string>
+</resources>
